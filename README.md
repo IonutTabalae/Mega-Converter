@@ -9,6 +9,9 @@ Welcome to MegaConverter, a robust and comprehensive conversion tool built with 
 - **Automatic Updates**: To ensure accuracy, the exchange rates are automatically updated. This feature guarantees that the conversions are always based on the latest available rates.
 
 ## Built with Flutter
+_Flutter_ [flutter official website](https://flutter.dev/)<br />
+_Dart_ [dart official website](https://dart.dev/)<br />
+<img src="https://i.ibb.co/zS6rpqb/Layer-1.png" width="250"/>
 
 MegaConverter is built using Flutter, Google's UI toolkit for crafting beautiful, natively compiled applications for mobile, web, and desktop from a single codebase. This cross-platform framework allows for code reusability and faster development cycles. Flutter's rich set of widgets and extensive capabilities have been leveraged to create this high-performance application.
 
