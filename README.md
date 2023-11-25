@@ -33,4 +33,4 @@ A detailed walkthrough of the application and its features is available in the _
 
 ## License
 
-MegaConverter is released under the MIT License. See the LICENSE file for more details.
+MegaConverter is released under the MIT License. See the [LICENSE](LICENSE) file for more details.
