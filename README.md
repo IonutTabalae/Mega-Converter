@@ -25,7 +25,7 @@ The application boasts a user-centric design that is intuitive and easy to navig
 ## Demo
 
 A detailed walkthrough of the application and its features is available in our video presentation on YouTube.
-[![Video](https://img.youtube.com/vi/jXnoFqcAkQA/maxresdefault.jpg)](https://youtu.be/kkj-4G_1BhQ)
+[![Video](https://youtu.be/kkj-4G_1BhQ)](https://youtu.be/kkj-4G_1BhQ)
 
 ## License
 
